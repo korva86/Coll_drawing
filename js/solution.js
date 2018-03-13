@@ -9,7 +9,7 @@ const CLASS_POINT = 'comments__marker',		// класс для точки
 	CLASS_OLD_COMMENT = 'comment__message', 		// класс для блока старого коммента в форме
 	CLASS_TEXT = 'comments__input';			// класс для textArea формы
 
-const currentAuthor = 'Viktor'; // Используется при сохранении комментария
+const currentAuthor = 'Виктор'; // Используется при сохранении комментария
 
 const body = document.querySelector('body'),
 	inpImage = document.querySelector('#inpImage'),
